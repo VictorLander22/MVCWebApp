@@ -29,3 +29,9 @@ C:\Users\User\Documents\GitHub\MVCWebApp\obj\Debug\net7.0\refint\MVCWebApp.dll
 C:\Users\User\Documents\GitHub\MVCWebApp\obj\Debug\net7.0\MVCWebApp.pdb
 C:\Users\User\Documents\GitHub\MVCWebApp\obj\Debug\net7.0\MVCWebApp.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\MVCWebApp\obj\Debug\net7.0\ref\MVCWebApp.dll
+C:\Users\User\Documents\GitHub\MVCWebApp\bin\Debug\net7.0\PdfSharpCore.dll
+C:\Users\User\Documents\GitHub\MVCWebApp\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\User\Documents\GitHub\MVCWebApp\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\User\Documents\GitHub\MVCWebApp\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\User\Documents\GitHub\MVCWebApp\bin\Debug\net7.0\de\PdfSharpCore.resources.dll
+C:\Users\User\Documents\GitHub\MVCWebApp\obj\Debug\net7.0\MVCWebApp.csproj.CopyComplete

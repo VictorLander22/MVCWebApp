@@ -44,6 +44,11 @@ namespace MVCApp
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}"); // Rota padrão para os controladores MVC
+                    
+                endpoints.MapControllerRoute(
+    name: "boleto",
+    pattern: "Boleto/Gerar",
+    defaults: new { controller = "Boleto", action = "GerarBoleto" });
             });
         }
     }
